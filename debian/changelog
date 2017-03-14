@@ -1,3 +1,9 @@
+libqbit-application-model-db-mysql-kvstore-perl (0.002) raring; urgency=low
+
+  * upload to cpan
+
+ -- Igor Sverdlov <igor-sverdlov@mail.ru>  Tue, 14 Mar 2017 08:23:49 +0300
+
 libqbit-application-model-db-mysql-kvstore-perl (0.001) raring; urgency=low
 
   * Initial commit
